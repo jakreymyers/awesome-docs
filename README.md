@@ -87,6 +87,7 @@ Research-driven frameworks for high-stakes product decisions:
 - **[User Personas](./user-personas/)** - Research-based profiles with visual representations and validation processes
 - **[Market Research](./market-research/)** - Competitive analysis with strategic frameworks
 - **[User Stories](./user-story/)** - Structured requirements that bridge user needs and technical implementation
+- **[Project Briefs](./project-brief/)** - High-level project definition with stakeholder alignment
 
 ### 👩‍💻 Developer Experience Excellence  
 Industry-standard approaches to technical documentation:
@@ -115,7 +116,6 @@ Professional frameworks for complex technical planning:
 - **[Frontend Specification](./frontend-specification/)** - UI/UX requirements with implementation guidance
 - **[Bug Reports](./bug-report/)** - Structured issue tracking with reproduction and resolution workflows
 - **[Brainstorming Reports](./brainstorming-report/)** - Ideation documentation with decision rationale
-- **[Project Briefs](./project-brief/)** - High-level project definition with stakeholder alignment
 
 ### 📚 Knowledge Transfer & Education
 Learning-oriented documentation with pedagogical principles:
